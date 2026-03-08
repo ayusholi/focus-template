@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- format code according to style guide
-- Updated: 2026-03-08T13:27:32.442Z
+- add health check endpoint
+- Updated: 2026-03-08T13:44:04.759Z
