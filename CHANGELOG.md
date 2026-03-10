@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- update dependencies to latest versions
-- Build: 2026-03-08T13:44:04.759Z
+- add end-to-end test suite
+- Updated: 2026-03-10T14:59:05.849Z
