@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-03-11T13:00:01.377Z
+Last updated: 2026-03-12T11:45:56.051Z
 
-## Summary
+## Progress
 
-- generate API reference documentation
+- add setup and installation guide
