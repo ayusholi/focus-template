@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- split large module into smaller ones
-- Build: 2026-03-11T13:00:01.377Z
+- add environment variable support
+- Updated: 2026-03-12T11:45:56.051Z
